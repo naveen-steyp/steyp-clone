@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/steyp-clone/static/media/Gordita Medium.2a23af3d.otf"
   },
   {
-    "revision": "78dd25235fa4006f25693d3cd8933469",
-    "url": "/steyp-clone/static/media/Gordita Bold.78dd2523.otf"
-  },
-  {
     "revision": "8f8fc889a9739732e20d1de9a01919f6",
     "url": "/steyp-clone/static/media/Gordita Regular.8f8fc889.otf"
+  },
+  {
+    "revision": "78dd25235fa4006f25693d3cd8933469",
+    "url": "/steyp-clone/static/media/Gordita Bold.78dd2523.otf"
   },
   {
     "revision": "efbae562bd651f8773956bbb4295895a",
@@ -564,12 +564,12 @@ self.__precacheManifest = [
     "url": "/steyp-clone/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/steyp-clone/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/steyp-clone/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/steyp-clone/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",

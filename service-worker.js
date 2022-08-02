@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/steyp-clone/precache-manifest.3da0c8086018c8c5bf5fac01a1fe58ea.js"
+  "/steyp-clone/precache-manifest.80c93f7e3309edaed237951ebc73017c.js"
 );
 
 workbox.clientsClaim();
